@@ -49,7 +49,7 @@ When a session starts:
 
 ## Project Structure
 
-```text
+text
 Project/
 ├── manifest.json
 ├── popup.html
